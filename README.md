@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome
+
+## Ömer Said Bulduk
 
 You can use the [editor on GitHub](https://github.com/omersb/osb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
